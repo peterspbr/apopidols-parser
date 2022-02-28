@@ -14,18 +14,18 @@ Version 2.0
 
 ### Usage:
     Download by idol name:
-        {0} -a <idol name>
+        apop_parser.py -a <idol name>
         [!] The name must be as follows: surname_name. Example: hirokawa_nanase
 
     Download by group name:
-        {0} -g <group_name>
+        apop_parser.py -g <group_name>
         [!] The name must be as follows: idol_group. Example: luce_twinkle_wink
 
     Download all images:
-        {0} -e folder_name
+        apop_parser.py -e folder_name
 
     Show this help message:
-        {0} -h
+        apop_parser.py -h
 > Please keep in mind that if the idol/group name is not written with the "underline", it will return a error! Don't use spaces and or dashes.
 
 ### Want to support the projet?
