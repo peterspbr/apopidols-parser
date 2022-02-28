@@ -10,7 +10,6 @@
 # Github repository: https://github.com/peterspbr/apopidols-parser
 ###########################################################################
 
-from unittest import case
 import requests
 import os, sys
 
